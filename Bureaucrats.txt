@@ -1,0 +1,1339 @@
+{
+d:d100 The bureaucrat's relies on...
+i:Passionate speaking, with appeals to pathos and ethos
+i:Passionate speaking, with appeals to pathos and ethos
+i:Passionate speaking, with appeals to pathos and ethos
+i:Passionate speaking, with appeals to pathos and ethos
+i:Passionate speaking, with appeals to pathos and ethos
+i:Thoughtful speaking, with appeals to logos and ethos
+i:Thoughtful speaking, with appeals to logos and ethos
+i:Thoughtful speaking, with appeals to logos and ethos
+i:Thoughtful speaking, with appeals to logos and ethos
+i:Thoughtful speaking, with appeals to logos and ethos
+i:Incredible speaking, with appeals to pathos, logos, and ethos, that inspire generations
+i:Sex
+i:Extortion
+i:Intimidation
+i:Bribes
+i:Corruption
+i:Appeals to divine/infernal power
+i:Appeals to divine/infernal power
+i:Appeals to divine/infernal power
+i:Appeals to divine/infernal power
+i:Populism
+i:Populism
+i:Populism
+i:Populism
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:War; protection from or support for
+i:Arcane magic
+i:Divine magic
+i:Connection in a secret society or political cabal
+i:Claims of heroism and past deeds
+i:Claims of heroism and past deeds
+i:Claims of heroism and past deeds
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Bread and circuses
+i:Support from a martial order
+i:Support from a divine order
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Inherited power (from family or of the position itself)
+i:Intrigue, mystery, and misdirection
+i:Intrigue, mystery, and misdirection
+i:Intrigue, mystery, and misdirection
+i:Intrigue, mystery, and misdirection
+i:Intrigue, mystery, and misdirection
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Being genuinely good at the bureaucrat's job
+i:Economic control
+i:Economic control
+i:Economic control
+i:Economic control
+i:Economic control
+i:Agricultural control
+i:Agricultural control
+i:Agricultural control
+i:Agricultural control
+i:Agricultural control
+i:Kidnapping
+i:Confidence scams
+i:Lying or perjury
+i:Murder
+i:Espionage or spying
+i:Theft/property crime
+i:Vices
+i:Warfare
+i:Warfare
+i:Warfare
+}
+{
+d:d100 The Bureacrat secretly relies on...
+i:Sex
+i:Sex
+i:Intimidation
+i:Intimidation
+i:Extortion
+i:Extortion
+i:Blackmail
+i:Blackmail
+i:Murder
+i:Murder
+i:Bribes
+i:Bribes
+i:Corruption
+i:Corruption
+i:Warfare
+i:Warfare
+i:Economics
+i:Economics
+i:Lying or perjury
+i:Lying or perjury
+i:Defamation
+i:Defamation
+i:Confidence scams
+i:Confidence scams
+i:Kidnappings
+i:Kidnappings
+i:Magic
+i:Magic
+i:Magic from a divine, infernal, abyssal, or eldritch source
+i:Mind control
+i:Misdirection
+i:Misdirection
+i:Misdirection
+i:Misdirection
+i:Secret society or political cabal
+i:Secret society or political cabal
+i:Secret society or political cabal
+i:Secret society or political cabal
+i:Secret society or political cabal
+i:Secret society or political cabal
+i:Complete and total honesty
+i:Complete and total honesty
+i:Appealing to vices
+i:Appealing to vices
+i:Appealing to vices
+i:Appealing to vices
+i:Appealing to vices
+i:Appealing to vices
+i:Appealing to vices
+i:Appealing to vices
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Religion
+i:Dueling
+i:Dueling
+i:Dueling
+i:Dueling
+i:Dueling
+i:Magical mayhem
+i:Lies and total fabrications
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Half-truths and obscured details; facts taken out of context
+i:Puppeteering
+i:Puppeteering
+i:Puppeteering
+i:Puppeteering
+i:Puppeteering
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+i:Adventurers do all the hard work the bureaucrat takes credit for
+}
+{
+d:d100 The bureaucrat is 1d100
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of the majority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:A member of a minority race
+i:Secretly a doppelganger
+i:Actually a sentient magic item that controls or instructs whoever wears it
+i:Secretly a vampire
+i:Secretly a celestial, abyssal, infernal, or eldritch creature
+i:Publicly a celestial, abyssal, infernal, or eldritch creature
+i:Publicly a doppelganger, vampire, or sentient magic item
+i:Secretly dominated/controlled by a vampire, celestial, abyssal, infernal, or eldritch creature
+i:Willingly subservient to a vampire, celestial, abysall, infernal, or eldritch creature
+i:A unique creature/race, or one that is very rare (but welcome)
+i:A unique creature/race, or one that is very rare (but welcome)
+i:A unique creature/race, or one that is very rare (but welcome)
+i:A unique creature/race, or one that is very rare (but welcome)
+i:A unique creature/race, or one that is very rare (but welcome)
+i:A unique creature/race, or one that is very rare (but welcome)
+i:An arcane or psychic intelligence
+i:A creature capable of polymorphing, such as a dragon or powerful wizard
+}
+{
+d:d100 The bureaucrat's predecessor was...
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A family member
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of the same political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A member of a rival political faction
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A direct rival
+i:A friend or acquaintance
+i:A friend or acquaintance
+i:A friend or acquaintance
+i:A friend or acquaintance
+i:A friend or acquaintance
+i:Lynched
+i:Run out of town
+i:Resigned in shame or under strange circumstances
+i:Of no significant relationship to this bureaucrat
+i:Impeached peacefully
+i:Assassinated
+i:Killed
+i:Sickly/old and died as a result
+i:Resigned peacefully or successfully completed his term
+i:Resigned peacefully or successfully completed his term
+i:Resigned peacefully or successfully completed his term
+i:Resigned peacefully or successfully completed his term
+i:Resigned peacefully or successfully completed his term
+i:Resigned peacefully or successfully completed his term
+i:Kidnapped or lost, and still missing
+}
+{
+d:d100 This bureaucrat secured their position by...
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Combat
+i:Trickery
+i:Trickery
+i:Trickery
+i:Trickery
+i:Treason
+i:Murder
+i:Murder
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Adventuring/questing
+i:Prophecy
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (popular)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Election (committee, political cabal, secret society)
+i:Nomination by respected politician or member of society
+i:Nomination by respected politician or member of society
+i:Nomination by respected politician or member of society
+i:Nomination by respected politician or member of society
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:Appointed
+i:High marks on a test or exam
+i:High marks on a test or exam
+i:High marks on a test or exam
+i:High marks on a test or exam
+i:High marks on a test or exam
+i:High marks on a test or exam
+i:Luck
+i:Luck
+i:Luck
+i:Luck
+i:Intimidation
+i:Intimidation
+i:Political connections and favors
+i:Political connections and favors
+i:Political connections and favors
+i:Political connections and favors
+i:Political connections and favors
+i:Political connections and favors
+i:Political connections and favors
+i:Political connections and favors
+i:Lack of qualified opponents
+i:Lack of qualified opponents
+i:Lack of qualified opponents
+i:Lack of qualified opponents
+i:Lack of qualified opponents
+i:Revolution/political upheaval
+i:Revolution/political upheaval
+i:Revolution/political upheaval
+i:Revolution/political upheaval
+i:No one else wanted the position
+}
+{
+d:d100 The people praise his...
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Meticulous planning
+i:Over-qualification; the bureaucrat's experience and skillset goes beyond the standard
+i:Over-qualification; the bureaucrat's experience and skillset goes beyond the standard
+i:Over-qualification; the bureaucrat's experience and skillset goes beyond the standard
+i:Over-qualification; the bureaucrat's experience and skillset goes beyond the standard
+i:Over-qualification; the bureaucrat's experience and skillset goes beyond the standard
+i:Social piranha; few people succeed in criticizing the bureaucrat
+i:Social piranha; few people succeed in criticizing the bureaucrat
+i:Social piranha; few people succeed in criticizing the bureaucrat
+i:Social piranha; few people succeed in criticizing the bureaucrat
+i:Social piranha; few people succeed in criticizing the bureaucrat
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Master negotiator
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Fierce personality
+i:Divine/infernal/abyssal/eldritch support
+i:Arcane power
+i:Divine power
+i:Arcane and divine power
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with other politicians
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Popularity with the people
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on domestic affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+i:Expertise on foreign affairs
+}
+{
+d:d100 The bureaucrat supports...
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:The current political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A freer political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:A more restrictive political system
+i:Letting the people decide on a new political system
+i:Letting the people decide on a new political system
+i:Letting the people decide on a new political system
+i:Letting the people decide on a new political system
+i:Letting the people decide on a new political system
+i:Meritocracy
+i:Theocracy
+i:Arcanocracy
+i:Kleptocracy
+i:Anarchy
+i:Monarchy
+i:Oligarchy
+i:Dictatorship
+i:Autocracy
+i:Socialism
+i:Communism
+i:Populism
+i:Republicanism
+i:Divine/Infernal/Abyssal/Eldritch Right
+i:Plutocracy
+}
+{
+d:d100 Beyond politics, the bureaucrat is notable for...
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:A strange or impressive estate/residence
+i:Sordid family or political affairs and scandal
+i:Sordid family or political affairs and scandal
+i:Sordid family or political affairs and scandal
+i:Sordid family or political affairs and scandal
+i:Sordid family or political affairs and scandal
+i:Spellcasting
+i:Parties (rowdy)
+i:Parties (rowdy)
+i:Parties (rowdy)
+i:Parties (rowdy)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:Parties (sophisticated)
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:The strange company they keep
+i:Eclectic wardrobe, vernacular, or interests
+i:Eclectic wardrobe, vernacular, or interests
+i:Eclectic wardrobe, vernacular, or interests
+i:Eclectic wardrobe, vernacular, or interests
+i:Eclectic wardrobe, vernacular, or interests
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Hunting
+i:Wealth, even beyond the usual
+i:Wealth, even beyond the usual
+i:Wealth, even beyond the usual
+i:Wealth, even beyond the usual
+i:Wealth, even beyond the usual
+i:Poverty (self-imposed)
+i:Poverty (conditional)
+i:Morbid interests
+i:Morbid interests
+i:Morbid interests
+i:Spirituality
+i:Spirituality
+i:Spirituality
+i:Spirituality
+i:Spirituality
+i:A striking appearance
+i:A striking appearance
+i:A striking appearance
+i:A striking appearance
+i:A striking appearance
+i:Having a twin
+i:A unique heraldry, crest, coat-of-arms, flag, or symbol
+i:A unique heraldry, crest, coat-of-arms, flag, or symbol
+i:A unique heraldry, crest, coat-of-arms, flag, or symbol
+i:A unique heraldry, crest, coat-of-arms, flag, or symbol
+i:Public investments
+i:Public investments
+i:Public investments
+i:Public investments
+i:Public investments
+i:Private investments
+i:Private investments
+i:Private investments
+i:Private investments
+i:Private investments
+i:Having a very private life
+i:Having a very private life
+i:Having a very public life
+i:Having a very public life
+i:Having a very public life
+}
+{
+d:d100 This bureaucrat uses power and position to obtain...
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (physical; sculptures, paintings, statues, architecture, etc)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Art (written/performed)
+i:Animals (exotic)
+i:Animals (exotic)
+i:Animals (exotic)
+i:Animals (exotic)
+i:Animals (exotic)
+i:Animals (mundane)
+i:Animals (mundane)
+i:Animals (mundane)
+i:Animals (mundane)
+i:Animals (mundane)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury goods (exotic)
+i:Luxury good (mundane)
+i:Luxury good (mundane)
+i:Luxury good (mundane)
+i:Luxury good (mundane)
+i:Luxury good (mundane)
+i:Respect
+i:Respect
+i:Respect
+i:Respect
+i:Respect
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:More power and influence
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+}
+{
+d:d100 This bureaucrat's is motivated by...
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Personal)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Familial)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Wealth (Special interest group)
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Power/Influence
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Fame
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:Civil service
+i:To benefit a benefactor
+i:To benefit a benefactor
+i:To benefit a benefactor
+i:To benefit a benefactor
+i:To benefit a benefactor
+i:To accomplish an important project
+i:To accomplish an important project
+i:To accomplish an important project
+i:To accomplish an important project
+i:To accomplish an important project
+i:To fix an injustice (or create one)
+i:To fix an injustice (or create one)
+i:To fix an injustice (or create one)
+i:To fix an injustice (or create one)
+i:To fix an injustice (or create one)
+i:Obligation
+i:Divine mandate/cause
+i:Waiting for someone more qualified to take over
+i:Waiting to produce an heir or groom a successor
+i:Waiting to produce an heir or groom a successor
+i:Waiting to produce an heir or groom a successor
+i:State of crisis/emergency has prolonged the need for the bureaucrat
+i:Can't imagine a sedentary life
+i:Waiting for a better position to open
+i:Working to sabotage the government from within
+}
+{
+d:d100 Rumors circle that the bureaucrat has recently upset...
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Thieves (Burglary)
+i:Cultists
+i:Cultists
+i:Thieves (brigands)
+i:Thieves (brigands)
+i:Thieves (brigands)
+i:Thieves (brigands)
+i:Thieves (brigands)
+i:Thieves (brigands)
+i:Thieves (brigands)
+i:Secret society/political cabal
+i:Secret society/political cabal
+i:Secret society/political cabal
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Trade organizations
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:Worker's unions
+i:God(s)
+i:A powerful monster
+i:A powerful monster
+i:A powerful monster
+i:A powerful monster
+i:The working class
+i:The working class
+i:The working class
+i:The working class
+i:The working class
+i:The poor
+i:The poor
+i:The poor
+i:The poor
+i:The poor
+i:The rich
+i:The rich
+i:The rich
+i:The rich
+i:The rich
+i:Own political faction
+i:Own political faction
+i:Own political faction
+i:Own political faction
+i:Own political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:Rival political faction
+i:A demon, fiend, angel, or deva
+i:A group of powerful NPCs (of comparable level and size to the party)
+i:Wizards, sorcerers, and/or other arcane spell casters
+i:Druids, barbarians, rangers, and/or wilderness/rural/rustic people
+i:Druids, barbarians, rangers, and/or wilderness/rural/rustic people
+i:A holy site
+i:A desecrated site
+i:A cursed site
+i:A dragon
+i:The party
+}
+{
+d:d100 When it comes time to vote, you can expect this bureaucrat to...
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Toe the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Push the party line
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Moderate the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Radicalize the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+i:Abandon the party
+}
+{
+d:d100 For all their faults, it might be best to keep this bureaucrat in power; after all, they're...
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Classically qualified (studied under/trained by a politican)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Uniquely qualified (spell caster, popular, resourceful, etc)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Supported by a powerful and experienced spouse/partner/mentor/expert/political faction (two heads are better than one!)
+i:Outsources expertise and finds the most cost effective solutions
+i:Outsources expertise and finds the most cost effective solutions
+i:Outsources expertise and finds the most cost effective solutions
+i:Outsources expertise and finds the most cost effective solutions
+i:Outsources expertise and finds the most cost effective solutions
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and uniquely qualified
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically qualified and well supported or uniquely qualified and well supported
+i:Classically/uniquely qualified, well supported, and outsources expert when that isn't enough
+i:Classically/uniquely qualified, well supported, and outsources expert when that isn't enough
+i:Classically/uniquely qualified, well supported, and outsources expert when that isn't enough
+i:Classically/uniquely qualified, well supported, and outsources expert when that isn't enough
+i:Classically/uniquely qualified, well supported, and outsources expert when that isn't enough
+i:This bureaucrat is trained, unique, well supported, and when that isn't enough has access to additional specialists and experts (like the party)
+i:This bureaucrat is trained, unique, well supported, and when that isn't enough has access to additional specialists and experts (like the party)
+i:This bureaucrat is trained, unique, well supported, and when that isn't enough has access to additional specialists and experts (like the party)
+i:This bureaucrat is trained, unique, well supported, and when that isn't enough has access to additional specialists and experts (like the party)
+i:This bureaucrat is trained, unique, well supported, and when that isn't enough has access to additional specialists and experts (like the party)
+}

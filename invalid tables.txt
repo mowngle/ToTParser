@@ -1,0 +1,313 @@
+{
+d:d100 When someone speaks ill of the bureaucrat, they are quick to point out...
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Incompetence
+i:Social awkwardness and faux pas
+i:Social awkwardness and faux pas
+i:Social awkwardness and faux pas
+i:Social awkwardness and faux pas
+i:Social awkwardness and faux pas
+i:An odd phobia/mania
+i:How they are easily sabotaged
+i:How they are easily sabotaged
+i:How they are easily sabotaged
+i:How they are easily sabotaged
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Overconfidence
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Trepidation
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Poor planning
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Vices and indulgences
+i:Religious zeal, devoutness, or social correctness
+i:Religious zeal, devoutness, or social correctness
+i:Religious zeal, devoutness, or social correctness
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:People-pleaser; the bureaucrat tries too hard to meet everyone's needs, no matter how frivolous, and has no spine
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Overly critical and demanding
+i:Unwelcome minority
+i:Unwelcome minority
+i:Unwelcome minority
+i:Unwelcome minority
+i:Revolutionary
+i:Social pariah
+i:Social pariah
+i:Social pariah
+i:Social pariah
+i:Social pariah
+i:Social pariah
+i:Social pariah
+i:Social pariah
+i:Xenophobic
+}
+{
+d:d100 When the players need something form this bureaucrat, they should try...
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Flattery
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Gifts
+i:Favors/quests
+i:Favors/quests
+i:Favors/quests
+i:Favors/quests
+i:Favors/quests
+i:Favors/quests
+i:Strength
+i:Strength
+i:Strength
+i:Strength
+i:Strength
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Heroics
+i:Honesty
+i:Honesty
+i:Brevity
+i:Creativity (artistry)
+i:Creativity (artistry)
+i:Creativity (problem solving)
+i:Creativity (problem solving)
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Fealty
+i:Fealty
+i:Fealty
+i:Fealty
+i:Fealty
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to ethos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to logos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to pathos
+i:Appeal to a higher authority
+i:Demonstration of utility outside of the law
+}
+{
+d:d100 But when someone needs something from the bureaucrat more quickly, they can exploit...
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Deceit
+i:Passionate speaking and fabricated urgency
+i:Passionate speaking and fabricated urgency
+i:Passionate speaking and fabricated urgency
+i:Passionate speaking and fabricated urgency
+i:Passionate speaking and fabricated urgency
+i:Fear
+i:Fear
+i:Fear
+i:Fear
+i:Fear
+i:Intimidation
+i:Intimidation
+i:Intimidation
+i:Intimidation
+i:Intimidation
+i:The bureaucrat's bigotry
+i:The bureaucrat's bigotry
+i:The bureaucrat's bigotry
+i:The bureaucrat's bigotry
+i:The bureaucrat's bigotry
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Skeletons in the closet
+i:Threats (personal)
+i:Threats (personal)
+i:Threats (personal)
+i:Threats (personal)
+i:Threats (personal)
+i:Threats (family)
+i:Threats (family)
+i:Threats (family)
+i:Threats (family)
+i:Threats (family)
+i:Threats (family)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Threats (business/scheme)
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Magic
+i:Opportunities to increase renown
+i:Opportunities to increase renown
+i:Opportunities to increase renown
+i:Opportunities to increase renown
+i:Opportunities to increase renown
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Carrot-and-stick
+i:Threats of divine retribution
+i:Threats of infernal/abyssal retribution
+i:Threats of eldritch retribution
+i:Threats of arcane disaster
+i:Opportunities to snub rivals
+i:Opportunities to snub rivals
+i:The bureaucrat's own system
+i:The bureaucrat's own system
+i:The bureaucrat's own system
+}
+
